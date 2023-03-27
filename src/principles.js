@@ -2,7 +2,7 @@ const PRINCIPLES = [
   {
     title: '关于本站',
     description:
-      "",
+      "一个提高效率、提供生产工具的神奇网站",
   },
   {
     title: '提供的服务',
